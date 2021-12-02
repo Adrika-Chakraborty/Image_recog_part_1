@@ -1,0 +1,27 @@
+body{
+    color:red;
+    background: pink;
+}
+
+.heading{
+    width:80%;
+    font-size:22px;
+}
+
+#list_of_objects{
+    color:black;
+    background-color: darkorchid;
+}
+
+#camera{
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+}
+
+#gyk{
+background-color: chartreuse;
+
+
+}
+
